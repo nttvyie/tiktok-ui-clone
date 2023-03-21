@@ -1,4 +1,6 @@
 {
+    "git.enableSmartCommit": false,
+    "git.suggestSmartCommit": false,
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
