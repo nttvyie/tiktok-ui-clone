@@ -93,10 +93,32 @@
     }
 }
 
+// Action
+.action {
+    display: flex;
+    align-items: center;
+}
+
 .more-btn {
     font-size: 2rem;
     margin-left: 24px;
     background-color: transparent;
     padding: 4px 8px;
     cursor: pointer;
+}
+
+.action-btn {
+    color: #161823;
+    font-size: 10rem;
+    background-color: transparent;
+    padding: 4px 12px;
+    display: flex;
+    text-align: center;
+    cursor: pointer;
+}
+
+.user-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
 }
